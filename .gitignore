@@ -1,2 +1,3 @@
 localReleases
 .DS_Store
+.build
