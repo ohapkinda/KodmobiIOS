@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "KodmobiCore",
-         url: "https://github.com/ohapkinda/KodmobiIOS/releases/download/v0.2.0/KodmobiCore.xcframework.zip",
-         checksum:"8d82afe84bd58cedce8257fedc189eb5d59abff101508d1987b19a4107a44245")
+         url: "https://github.com/ohapkinda/KodmobiIOS/releases/download/v0.2.2/KodmobiCore.xcframework.zip",
+         checksum:"9bf55f5976861c56c2cd386e94fa51088dbc64d480ea74ca42bb4895b9f0487a")
    ]
 )
